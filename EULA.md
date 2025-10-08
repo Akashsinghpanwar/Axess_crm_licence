@@ -1,13 +1,13 @@
 # Axess Corrosion Inc — End-User License Agreement (EULA)
 
-Effective date: 08 October 2025  
-Last updated: 08 October 2025
+**Effective date:** 08 October 2025  
+**Last updated:** 08 October 2025
 
-This End-User License Agreement (“EULA”) is a legal agreement between Axess Corrosion Inc (“Axess,” “we,” “us,” or “our”) and you (“you” or “User”) governing your access to and use of the Axess CRM and related software, dashboards, APIs, documentation, and services (collectively, the “**Service**”).
+This End-User License Agreement (“**EULA**”) is a legal agreement between **Axess Corrosion Inc** (“**Axess**,” “**we**,” “**us**,” or “**our**”) and you (“**you**” or “**User**”) governing your access to and use of the Axess CRM and related software, dashboards, APIs, documentation, and services (collectively, the “**Service**”).
 
 If you are agreeing on behalf of a company or other legal entity, you represent that you have the authority to bind that entity. By accessing or using the Service, you agree to be bound by this EULA.
 
-> Note: This EULA is separate from our Privacy Policy, which explains how we handle personal data: https://YOUR-DOMAIN/privacy
+> **Note:** This EULA is separate from our **Privacy Policy**, which explains how we handle personal data: https://YOUR-DOMAIN/privacy
 
 ---
 
@@ -26,13 +26,13 @@ You shall not (and shall not permit any third party to):
 You are responsible for maintaining the confidentiality of your account credentials and for all activities under your account. Notify us immediately of any unauthorized use.
 
 ## 4. Third-Party Services (e.g., QuickBooks Online)
-The Service may interoperate with third-party services such as Intuit QuickBooks Online, Supabase, cloud hosting, analytics, or email providers (collectively, “Third-Party Services”). Your use of Third-Party Services is governed by their terms. We are not responsible for Third-Party Services or their availability. You authorize us to exchange data with Third-Party Services as reasonably necessary to provide the Service.
+The Service may interoperate with third-party services such as **Intuit QuickBooks Online**, Supabase, cloud hosting, analytics, or email providers (collectively, “Third-Party Services”). Your use of Third-Party Services is governed by their terms. We are not responsible for Third-Party Services or their availability. You authorize us to exchange data with Third-Party Services as reasonably necessary to provide the Service.
 
 ## 5. Customer Data & Ownership
 “**Customer Data**” means any data, content, or materials you (or on your behalf) submit to the Service, including accounting/CRM records (e.g., quotes, invoices, purchase orders), and personal data. As between the parties, you retain all rights in Customer Data. You grant Axess a worldwide, non-exclusive, royalty-free license to host, process, transmit, display, and back up Customer Data as necessary to provide and support the Service and to improve security, reliability, and performance.
 
 ## 6. Usage Data
-We may generate and use aggregated and/or de-identified data derived from the operation of the Service (“Usage Data”) for analytics, benchmarking, service improvement, and business purposes, provided it does not identify you or any natural person.
+We may generate and use aggregated and/or de-identified data derived from the operation of the Service (“**Usage Data**”) for analytics, benchmarking, service improvement, and business purposes, provided it does not identify you or any natural person.
 
 ## 7. Service Levels & Changes
 We may modify the Service, features, or components from time to time. If a change materially reduces core functionality you rely on, you may terminate for convenience (Section 11) and receive a pro-rated refund of prepaid, unused fees.
@@ -58,7 +58,7 @@ THE SERVICE IS PROVIDED “AS IS” AND “AS AVAILABLE.” TO THE MAXIMUM EXTEN
 
 ## 13. Limitation of Liability
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL AXESS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, GOODWILL, DATA, OR BUSINESS INTERRUPTION, EVEN IF ADVISED OF THE POSSIBILITY.  
-AXESS’S TOTAL AGGREGATE LIABILITY UNDER THIS EULA SHALL NOT EXCEED THE AMOUNTS PAID BY YOU FOR THE SERVICE IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+AXESS’S TOTAL AGGREGATE LIABILITY UNDER THIS EULA SHALL NOT EXCEED THE AMOUNTS PAID BY YOU FOR THE SERVICE IN THE **TWELVE (12) MONTHS** PRECEDING THE CLAIM.
 
 Some jurisdictions do not allow certain limitations; in such cases, the limitations apply to the fullest extent permitted.
 
@@ -72,8 +72,8 @@ This EULA and any dispute shall be governed by and construed in accordance with 
 We may update this EULA from time to time. We will post updates at this URL and update the “Last updated” date. Continued use after changes become effective constitutes acceptance.
 
 ## 17. Contact
-Axess Corrosion Inc  
-Address:  
+**Axess Corrosion Inc**  
+Address: [YOUR REGISTERED ADDRESS]  
 Email: [legal@YOUR-DOMAIN]  
 Website: https://YOUR-DOMAIN
 
